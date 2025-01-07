@@ -13,6 +13,8 @@ This document provides a step-by-step guide, similar to a video tutorial, on how
   - Uncheck all add-ins and click **OK**.
   - Restart Outlook in normal mode to check if it opens without issues. If the problem is resolved, re-enable the add-ins one by one to identify the culprit.
 
+![image](https://github.com/user-attachments/assets/41bbdeb6-b20d-4d8b-8b90-bb8dca2cdd0a)
+
 ### Step 2: Create a New Outlook Profile
 - **Open Control Panel:** Navigate to **Control Panel > Mail (Microsoft Outlook)**.
 - **Show Profiles:** In the Mail Setup window, click **Show Profiles**.
