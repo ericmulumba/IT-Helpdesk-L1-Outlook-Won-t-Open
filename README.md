@@ -1,6 +1,3 @@
-Here’s the updated guide with all steps after **Step 4** removed:
-
-```markdown
 # IT Helpdesk: Outlook Won't Open - How To Fix it Easy Steps
 
 ## Issue Overview
@@ -44,6 +41,3 @@ By following these easy steps, I was able to resolve the issue of Outlook not op
 - **Task Manager**
 - **Control Panel**
 - **Scan.pst Tool (Inbox Repair)**
-```
-
-Now, the guide stops after **Step 4**, resolving the issue of Outlook not opening.
